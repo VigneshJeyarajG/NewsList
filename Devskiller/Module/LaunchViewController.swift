@@ -6,7 +6,7 @@
 //  Copyright © 2022 Mindera. All rights reserved.
 
 import UIKit
-import DropDown
+
 
 class LaunchViewController: UIViewController {
     
